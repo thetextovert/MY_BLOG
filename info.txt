@@ -1,0 +1,8 @@
+This is a my_blog sample app used for posting blog posts built via node.js 
+following an untidy basic approach that is without templating.
+here we simply wrote the html code in res.send command.
+A far better approach using templates which enhances the readability of the code .
+templating can be done in various ways i.e. using 
+ejs(EMBEDDED JAVASCRIPT)
+hbs(HANDLEBARS)
+etc..

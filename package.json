@@ -1,0 +1,20 @@
+{
+  "name": "my_blog",
+  "version": "1.0.0",
+  "description": "my blog",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "*"},
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "blog",
+    "posts"
+  ],
+  "author": "ishani aggarwal",
+  "license": "ISC"
+}
